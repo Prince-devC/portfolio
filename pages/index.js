@@ -201,7 +201,7 @@ export default function Home() {
         <VStack spacing={4} align="start">
           <HStack>
             <Text fontWeight="bold">Email:</Text>
-            <Text>prince.guangnon29@gmail.com</Text>
+            <Text>prince.gnangnon2@gmail.com</Text>
           </HStack>
           <HStack>
             <Text fontWeight="bold">Localisation:</Text>
